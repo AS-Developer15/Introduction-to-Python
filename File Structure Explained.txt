@@ -1,0 +1,9 @@
+Program to write "Hello World".               -Hello World.py
+Program to get user input.                    -Inp Operation.py
+Program to write the sum of 2 int val.        -Addition.py
+Program to write program to swap 2 int val.   -Swap two Int Val.py
+Program to perform Arithematic operation.     -Arithematic Operator Practise.py
+Program to perform Comparision operation.     -Comparision Operators Practise.py
+Program to perform Logical operation.         -Logical Operator Practise .py
+Program to perform Identity operation.        -Identity Operators Practise.py
+Program to perform Membership operation.      -Membership Test.py
